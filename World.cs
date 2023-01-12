@@ -1,4 +1,4 @@
-#Class and Object
+//Class and Object
 
 using System;
 
