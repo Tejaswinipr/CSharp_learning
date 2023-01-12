@@ -1,4 +1,4 @@
-#Properties get and set method
+//Properties get and set method
 
 using System;
 
