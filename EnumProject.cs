@@ -1,5 +1,4 @@
-Enum
-
+//Enum
 
 using System;
 
